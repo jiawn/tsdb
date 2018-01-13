@@ -1,0 +1,26 @@
+app:
+  app-name: baidu-tsdb
+
+logging:
+  config: classpath:log.xml
+
+spring:
+  main:
+    show_banner: false
+  http:
+    encoding:
+      charset: UTF-8
+      enabled: true
+      force: true
+
+baidu:
+  bce:
+    access-key-id: 1111
+    secret-access-key: 2222
+    tsdb:
+      endpoint: 111.tsdb.iot.gz.baidubce.com
+
+
+
+    
+    
