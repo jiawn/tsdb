@@ -21,7 +21,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>1.8</java.version>
-		<fastjson.version>1.2.7</fastjson.version>
+		<fastjson.version>1.2.25</fastjson.version>
 		<commons.lang.version>2.6</commons.lang.version>
 		<org.testng.version>6.9.4</org.testng.version>
 		<com.baidubce.version>0.10.26</com.baidubce.version>
